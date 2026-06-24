@@ -1,0 +1,5 @@
+{
+  "I_bias": 1.4,
+  "dt": 0.02,
+  "note": "set I_bias below Ic (=1.0) for silent supercurrent, above for firing SFQ pulses"
+}
